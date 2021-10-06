@@ -24,7 +24,7 @@
         "incorrecta3": "Peppy Hare\r"
     }, 
     {
-        "categoria": "Muy duro",
+        "categoria": "Muy Dificil",
         "pregunta": "¿El prototipo de PlayStation fue diseñado por Sony en colaboración con qué empresa?",
         "respuesta": "Nintendo",
         "incorrecta1": "Napster",
@@ -32,7 +32,7 @@
         "incorrecta3": "NEC Electronics\r"
     },
     {
-        "categoria": "Duro",
+        "categoria": "Dificil",
         "pregunta": "¿Cuál fue el primer videojuego que contó con la leyenda del baloncesto Michael Jordan?",
         "respuesta": "Jordan vs. Bird",
         "incorrecta1": "Bulls vs. Blazers",
@@ -40,7 +40,7 @@
         "incorrecta3": "Bulls vs. Lakers\r"
     }, 
     {
-        "categoria": "Duro",
+        "categoria": "Dificil",
         "pregunta": "Además de Sonic, ¿qué otro personaje de Sega fue un personaje jugable en Super Smash Bros. 4?",
         "respuesta": "Bayonetta",
         "incorrecta1": "Shinobi",
@@ -56,7 +56,7 @@
         "incorrecta3": "Estados Unidos\r"
     }, 
     {
-        "categoria": "Muy duro",
+        "categoria": "Muy Dificil",
         "pregunta": "¿Cómo se llamaba la pandemia virtual que azotó el Warld of Warcraft en 2005?",
         "respuesta": "Corrupted Blood",
         "incorrecta1": "The Soulflayer",
@@ -64,7 +64,7 @@
         "incorrecta3": "Code Red\r"
     },
     {
-        "categoria": "Duro",
+        "categoria": "Dificil",
         "pregunta": "¿Cómo se llama el primer videojuego de la historia?",
         "respuesta": "Tenis para dos",
         "incorrecta1": "pong",
@@ -72,7 +72,7 @@
         "incorrecta3": " Asteroids\r"
     }, 
     {
-        "categoria": "Duro",
+        "categoria": "Dificil",
         "pregunta": "¿Cómo se llama la última consola de videojuegos que Sega lanzó en Estados Unidos?",
         "respuesta": " Dreamcast",
         "incorrecta1": "32x",
@@ -80,7 +80,7 @@
         "incorrecta3": "Advanced Pico Beena\r"
     },
     {
-        "categoria": "Duro",
+        "categoria": "Dificil",
         "pregunta": "¿Cómo se llama Sega Master System en Japón?",
         "respuesta": "Sega Mark III",
         "incorrecta1": "Neo Geo",
@@ -120,7 +120,7 @@
         "incorrecta3": "Champiñón\r"
     }, 
     {
-        "categoria": "Muy duro",
+        "categoria": "Muy Dificil",
         "pregunta": "¿Cuál es el nombre del sistema principal utilizado para calificar el contenido de videojuegos en Israel?",
         "respuesta": "Información de juegos paneuropea",
         "incorrecta1": "Organización ética del software informático",
@@ -136,7 +136,7 @@
         "incorrecta3": " Sega\r"
     }, 
     {
-        "categoria": "Duro",
+        "categoria": "Dificil",
         "pregunta": "¿Cómo se llama el curso final en todos los videojuegos de Mario Kart?",
         "respuesta": " Rainbow Road",
         "incorrecta1": "Bowser Castle",
@@ -144,7 +144,7 @@
         "incorrecta3": " DK Jungle\r"
     },
     {
-        "categoria": "Muy duro",
+        "categoria": "Muy Dificil",
         "pregunta": "¿qué compañía de videojuegos fue demandada por el actor Alfonso Ribeiro por capitalizar de manera poco ética el contenido que creó?",
         "respuesta": "Epic Games",
         "incorrecta1": "Blizzard Entertainment",
@@ -208,7 +208,7 @@
         "incorrecta3": "Monstruos adorables\r"
     },
     {
-        "categoria": "Duro",
+        "categoria": "Dificil",
         "pregunta": "LCS es el acrónimo de una liga profesional de eSports centrada en qué juego?",
         "respuesta": "League of Legends",
         "incorrecta1": "Grand Theft Auto",
@@ -216,7 +216,7 @@
         "incorrecta3": "NBA 2K\r"
     }, 
     {
-        "categoria": "Muy duro",
+        "categoria": "Muy Dificil",
         "pregunta": "¿Cuál es el nivel más alto que puede alcanzar un jugador en Pac-Man?",
         "respuesta": "256",
         "incorrecta1": "210",
@@ -240,7 +240,7 @@
         "incorrecta3": " John Elway\r"
     },
     {
-        "categoria": "Muy duro",
+        "categoria": "Muy Dificil",
         "pregunta": "¿Cómo se llamaba el último juego lanzado como cartucho físico para Super Nintendo?",
         "respuesta": " Fire Emblem: Thracia 776",
         "incorrecta1": "SimCity",
@@ -272,7 +272,7 @@
         "incorrecta3": "Cyber mining\r"
     },
     {
-        "categoria": "Duro",
+        "categoria": "Dificil",
         "pregunta": "¿Qué actor interpretó al protagonista de Grand Theft Auto: Vice City?",
         "respuesta": "Ray Liotta",
         "incorrecta1": "Al Pacino",
@@ -288,7 +288,7 @@
         "incorrecta3": "MMORPG\r"
     },
     {
-        "categoria": "Muy duro",
+        "categoria": "Muy Dificil",
         "pregunta": "¿Qué tipo de animal es el compañero de Sonic Knuckles?",
         "respuesta": "Echidna",
         "incorrecta1": "purco espin",
@@ -296,7 +296,7 @@
         "incorrecta3": "Topo\r"
     }, 
     {
-        "categoria": "Muy duro",
+        "categoria": "Muy Dificil",
         "pregunta": "¿Cuántas formas diferentes de bloques de cuatro conectados hay en Tetris?",
         "respuesta": "7",
         "incorrecta1": "8",
@@ -304,7 +304,7 @@
         "incorrecta3": "10\r"
     },
     {
-        "categoria": "Duro",
+        "categoria": "Dificil",
         "pregunta": "¿Cómo se llamaba el dispositivo periférico que podía usarse para conectar dos Gameboys?",
         "respuesta": "Game Link",
         "incorrecta1": "Infrarrojo",
@@ -328,7 +328,7 @@
         "incorrecta3": "Nintndo Ds\r"
     }, 
     {
-        "categoria": "Muy duro",
+        "categoria": "Muy Dificil",
         "pregunta": "¿Qué país había prohibido la venta del Grand Theft Auto original?",
         "respuesta": "Brasil",
         "incorrecta1": "Alemania",
@@ -360,7 +360,7 @@
         "incorrecta3": " Dark hors\r"
     }, 
     {
-        "categoria": "Muy duro",
+        "categoria": "Muy Dificil",
         "pregunta": "¿Cómo se llama la raza alienígena que fueron los padres adoptivos de Samus en la franquicia Metroid?",
         "respuesta": " el covenant",
         "incorrecta1": "los chozo",
@@ -368,7 +368,7 @@
         "incorrecta3": "los hord\r"
     },
     {
-        "categoria": "Duro",
+        "categoria": "Dificil",
         "pregunta": "¿Qué empresa de tecnología fueron los fabricantes del Turbografx-16?",
         "respuesta": "NEC",
         "incorrecta1": "sony",
@@ -416,7 +416,7 @@
         "incorrecta3": "guilty gear\r"
     },
     {
-        "categoria": "Duro",
+        "categoria": "Dificil",
         "pregunta": "Los enemigos fantasma de Pac-Man se denominan Blinky, Pinky e Inky. ¿Cómo se llama el cuarto miembro de la tripulación?",
         "respuesta": "Clyde",
         "incorrecta1": "Stinky",
@@ -432,7 +432,7 @@
         "incorrecta3": "una estrella\r"
     },
     {
-        "categoria": "Muy duro",
+        "categoria": "Muy Dificil",
         "pregunta": "¿Cuál es el nombre de la mujer que Mario intenta salvar del mono gigante en el Donkey Kong original?",
         "respuesta": "Pauline",
         "incorrecta1": "Rosalina",
@@ -440,7 +440,7 @@
         "incorrecta3": "Camilla\r"
     }, 
     {
-        "categoria": "Duro",
+        "categoria": "Dificil",
         "pregunta": "¿SK Telecom T1 son eGamers consumados asociados con qué juego?",
         "respuesta": "League of Legends",
         "incorrecta1": "Call of Duty",
@@ -456,7 +456,7 @@
         "incorrecta3": "famitsu\r"
     }, 
     {
-        "categoria": "Duro",
+        "categoria": "Dificil",
         "pregunta": "¿Qué personaje de Mario ha aparecido en todos los juegos de Mario Party menos uno?",
         "respuesta": "Wario",
         "incorrecta1": "Bowser",
@@ -472,7 +472,7 @@
         "incorrecta3": "amarillo\r"
     }, 
     {
-        "categoria": "Duro",
+        "categoria": "Dificil",
         "pregunta": "¿Qué videojuego tiene el récord de tener el mayor presupuesto para producir?",
         "respuesta": "Grand Theft Auto V",
         "incorrecta1": "call of Duty",
@@ -488,7 +488,7 @@
         "incorrecta3": "apex legends\r"
     }, 
     {
-        "categoria": "Duro",
+        "categoria": "Dificil",
         "pregunta": "¿Qué arma era tan poderosa que Epic Games la sacó de Fortnite después de solo cuatro días en diciembre de 2018?",
         "respuesta": "Infinity Blade",
         "incorrecta1": "Infinity Gauntlet",
@@ -504,7 +504,7 @@
         "incorrecta3": "Baywatch\r"
     }, 
     {
-        "categoria": "Duro",
+        "categoria": "Dificil",
         "pregunta": "¿Qué actor icónico proporcionó la voz del personaje principal durante la caricatura de Sonic the Hedgehog de la década de 1990?",
         "respuesta": "Jaleel White",
         "incorrecta1": " Jim Carrey",
@@ -512,7 +512,7 @@
         "incorrecta3": "Ryan Reynolds\r"
     },
     {
-        "categoria": "Duro",
+        "categoria": "Dificil",
         "pregunta": "¿Cuál fue el primer sistema de videojuegos lanzado para ser utilizado junto con un televisor?",
         "respuesta": "Magnavox Odyssey",
         "incorrecta1": "Vectrex",
@@ -520,7 +520,7 @@
         "incorrecta3": "Intellivision\r"
     }, 
     {
-        "categoria": "Muy duro",
+        "categoria": "Muy Dificil",
         "pregunta": "¿Qué personaje de videojuego popular se conoce con el nombre en clave Killer Bee?",
         "respuesta": "Cammy",
         "incorrecta1": "Chun li",
@@ -528,7 +528,7 @@
         "incorrecta3": "Lara Croft\r"
     },
     {
-        "categoria": "Muy duro",
+        "categoria": "Muy Dificil",
         "pregunta": "¿Cuánto tiempo tardó Markus Persson en crear la primera versión de Minecraft?",
         "respuesta": "Una semana",
         "incorrecta1": "dos semanas",
@@ -536,7 +536,7 @@
         "incorrecta3": "Un año\r"
     }, 
     {
-        "categoria": "Duro",
+        "categoria": "Dificil",
         "pregunta": "¿Cuál fue la primera consola de videojuegos con un CD-ROM integrado?",
         "respuesta": "3DO",
         "incorrecta1": "Philips cd",
@@ -600,7 +600,7 @@
         "incorrecta3": "Nintendo Switch\r"
     }, 
     {
-        "categoria": "Duro",
+        "categoria": "Dificil",
         "pregunta": "¿Cuántos de los supramundos hay en 'Cuphead'?",
         "respuesta": "4",
         "incorrecta1": "8",
@@ -608,7 +608,7 @@
         "incorrecta3": "6\r"
     },
     {
-        "categoria": "Muy duro",
+        "categoria": "Muy Dificil",
         "pregunta": " En 'Call of Duty: Advanced Warfare', ¿cómo se llama el mejor amigo de Jack Mitchell?",
         "respuesta": "Will Irons",
         "incorrecta1": "John Price",
@@ -616,7 +616,7 @@
         "incorrecta3": "Soap MacTavish\r"
     }, 
     {
-        "categoria": "Duro",
+        "categoria": "Dificil",
         "pregunta": "Pregunta: ¿Quién es el primer personaje que interpretas en 'Injustice 2?'",
         "respuesta": "Superman",
         "incorrecta1": "Wonder man",
@@ -624,7 +624,7 @@
         "incorrecta3": "Green Lanter\r"
     },
     {
-        "categoria": "Muy duro",
+        "categoria": "Muy Dificil",
         "pregunta": " ¿Quién está en la portada del videojuego 'Madden NFL 18'?",
         "respuesta": "Tom Brady",
         "incorrecta1": "Trae Waynes ",
@@ -672,7 +672,7 @@
         "incorrecta3": "FIFA\r"
     },
     {
-        "categoria": "Duro",
+        "categoria": "Dificil",
         "pregunta": "¿Cuándo se lanzó el primer videojuego 'Call Of Duty'?",
         "respuesta": "2003",
         "incorrecta1": "2000",
@@ -688,7 +688,7 @@
         "incorrecta3": "Bluepoint Games\r"
     },
     {
-        "categoria": "Muy duro",
+        "categoria": "Muy Dificil",
         "pregunta": "¿Cuándo fue lanzado 'Super Smash Bros.' ",
         "respuesta": "2014",
         "incorrecta1": "2015",
@@ -736,7 +736,7 @@
         "incorrecta3": "2008\r"
     },
     {
-        "categoria": "Duro",
+        "categoria": "Dificil",
         "pregunta": "¿Cuándo se lanzó 'Pong'?",
         "respuesta": " 1972",
         "incorrecta1": "1973",
@@ -752,7 +752,7 @@
         "incorrecta3": "1995.\r"
     },
     {
-        "categoria": "Muy duro",
+        "categoria": "Muy Dificil",
         "pregunta": " ¿Cuál fue la consola de juegos más vendida solo en 2020?",
         "respuesta": "Nintendo Switch",
         "incorrecta1": "Play Station 4",
@@ -768,7 +768,7 @@
         "incorrecta3": "Xbox\r"
     },
     {
-        "categoria": "muy Duro",
+        "categoria": "muy Dificil",
         "pregunta": "¿En qué juego apareció el personaje Sonic por primera vez?",
         "respuesta": "Red Mobile.",
         "incorrecta1": "Sonic the Hedgehog",
@@ -776,7 +776,7 @@
         "incorrecta3": "Sonic Adventure\r"
     }, 
     {
-        "categoria": "Muy duro",
+        "categoria": "Muy Dificil",
         "pregunta": "¿Cómo se llama el planeta que alberga el juego 'Gears Of War'?",
         "respuesta": "Sera",
         "incorrecta1": " Epsilon Eridani II",
@@ -784,7 +784,7 @@
         "incorrecta3": "Despoina\r"
     },
     {
-        "categoria": "Muy duro",
+        "categoria": "Muy Dificil",
         "pregunta": "¿En qué año se desarrolló el primer prototipo de una consola de videojuegos doméstica?",
         "respuesta": "1967",
         "incorrecta1": "1970",
@@ -792,7 +792,7 @@
         "incorrecta3": "1980\r"
     }, 
     {
-        "categoria": "Muy duro",
+        "categoria": "Muy Dificil",
         "pregunta": " ¿Cómo se llamaba el personaje que más tarde se conocería como Mario en la versión arcade original de 'Donkey Kong'?",
         "respuesta": "Jumpman",
         "incorrecta1": "Stanley",
