@@ -140,4 +140,11 @@ function readText(ruta_local) {
   }
   return texto;
 }
-function reset(){location.reload()}
+function reset(){
+document.querySelector(".gameOver").style.display = "none";
+document.querySelector(".contenedor").style.display = "inline-flex";
+}
+
+function pausa(){
+musica[0].pause();
+}
