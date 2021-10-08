@@ -70,6 +70,6 @@ font-size:300%;
 display:none; 
 }
 h3{
-position:absolute;
-left:0; right:0;
+margin-top:0;
+margin-right:0;
 }
