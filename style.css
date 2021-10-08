@@ -67,4 +67,9 @@ body {
 color: #e50000;
 font-weight:bold;
 font-size:200%;
-display:none; }
+display:none; 
+}
+h3{
+position:absolute;
+left:0; right:0;
+}
