@@ -8,7 +8,7 @@ musica = [
   new Audio("img/correct.wav"),
   new Audio("img/fail.mp3")
 ]; 
-musica[0].play(); musica[0].current = 0;
+musica[0].play(); musica[0].loop = true;
 
 let pregunta
 let posibles_respuestas
@@ -112,6 +112,7 @@ function oprimir_btn(i) {
     suspender_botones = false
   }, 3000);
 }
+
 // let p = prompt("numero")
 
 function reiniciar() {
