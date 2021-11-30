@@ -8,7 +8,7 @@ musica = [
   new Audio("img/correct.wav"),
   new Audio("img/fail.mp3")
 ]; 
-musica[0].play(); musica[0].loop = true;
+musica[0].play(); musica[0].loop = true; musica.autoplay = true;
 
 let pregunta
 let posibles_respuestas
