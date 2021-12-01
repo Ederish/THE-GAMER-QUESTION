@@ -1,4 +1,4 @@
-window.onload = function() {
+window.onload = ()=>{
   base_preguntas = readText("base-preguntas.json")
   interprete_bp = JSON.parse(base_preguntas)
   escogerPreguntaAleatoria()
@@ -8,7 +8,7 @@ musica = [
   new Audio("img/correct.wav"),
   new Audio("img/fail.mp3")
 ]; 
-musica[0].play(); musica[0].loop = true;
+window.onload=()=>{var m= new Audio("img/music.mp3"); m.play(); m.loop=true}
 
 let pregunta
 let posibles_respuestas
@@ -112,7 +112,6 @@ function oprimir_btn(i) {
     suspender_botones = false
   }, 3000);
 }
-
 // let p = prompt("numero")
 
 function reiniciar() {
