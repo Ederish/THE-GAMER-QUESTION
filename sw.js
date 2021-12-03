@@ -8,7 +8,7 @@ const CACHE_NAME = 'v1_cache_programador_fitness',
     './style.css',
     './script.js',
     './img/logo.png',
-    './img/fondo6.png',
+    './img/fondo6.jpeg',
     './img/favicon.png'
   ]
 
