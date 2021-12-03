@@ -9,6 +9,11 @@ const CACHE_NAME = 'v1_cache_programador_fitness',
     './script.js',
     './img/logo.png',
     './img/fondo.png',
+    './img/fondo1.jpeg',
+    './img/fondo2.jpeg',
+    './img/fondo3.jpeg',
+    './img/fondo4.jpeg',
+    './img/fondo5.jpeg',
     './img/favicon.png'
   ]
 
