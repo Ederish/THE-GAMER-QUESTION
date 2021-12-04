@@ -101,6 +101,10 @@
   padding:10%;
   display:none; 
 }
-.gameOver>h1{
-padding:10%;
+h1{
+    position: relative;
+    min-width: 300px;
+    width: 70%;
+    max-width: 600px;
+    padding: 10px;
 }
