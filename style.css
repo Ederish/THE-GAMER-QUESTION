@@ -98,8 +98,9 @@
 color: #e50000;
 font-weight:bold;
 font-size:300%;
-display:none; }
-h3{
+display:none; 
+}
+h1{
 position:absolute;
 left:0; right:0;
 }
