@@ -100,10 +100,3 @@
   font-size:100%;
   display:none; 
 }
-h1{
-    position: relative;
-    min-width: 300px;
-    width: 70%;
-    max-width: 600px;
-    padding: 10px;
-}
