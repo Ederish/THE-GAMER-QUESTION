@@ -97,10 +97,11 @@
 -webkit-text-stroke: 3px #ccc;
 color: #e50000;
 font-weight:bold;
-font-size:300%;
-display:none;
+font-size:100%;
+padding:10%;
+display:none; 
 }
 h1{
-position:absolute;
-left:0; right:0;
+justify-content:center;
+align-item:center;
 }
