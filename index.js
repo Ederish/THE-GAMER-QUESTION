@@ -116,7 +116,7 @@ function oprimir_btn(i) {
 
 function reiniciar() {
   for (const btn of btn_correspondiente) {
-    btn.style.background = "#AAA"
+    btn.style.background = "#fff"
   }
   escogerPreguntaAleatoria()
 }
