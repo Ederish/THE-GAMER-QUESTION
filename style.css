@@ -93,15 +93,13 @@
     padding:10px;
     color:white;
   }
-  .gameOver{
+.gameOver{
 -webkit-text-stroke: 3px #ccc;
 color: #e50000;
 font-weight:bold;
-font-size:100%;
-padding:10%;
-display:none; 
-}
+font-size:50pc;
+display:none; }
 h1{
-justify-content:center;
-align-item:center;
+ justify-content: center;
+ align-items: center;
 }
