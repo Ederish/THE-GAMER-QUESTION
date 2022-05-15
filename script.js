@@ -9,11 +9,11 @@ scale: {mode: Phaser.Scale.ENVELOVED},
 scene:{preload:preload,create:create,update:update}
 };
 var game = new Phaser.Game(config);
-var bg;var Score=9; 
+var bg;var Score=0; 
 var btn1;var btn2;
 var btn3;var btn4;
 var time=10;var t;
-var level=12;var pre;
+var level=1;var pre;
 function preload (){
 this.load.css('styles','style.css');
 this.load.json('json', 'preguntas.json');
