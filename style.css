@@ -1,0 +1,35 @@
+* {margin:0; padding:0;}
+
+::-webkit-scrollbar{display:none;}
+  
+.encabezado{
+border:solid #000 5px;
+border-radius:50px;
+font-weight:bold;
+font-size:18;
+font-family:Arial Black;
+background: #fff;
+width:60%; 
+text-align:center;
+padding: 15px;
+}
+.imagen {
+object-fit: cover;
+height: 0px;
+width: 0px;
+}
+.btn,.correcto,.incorrecto {
+background:#fff;
+border: solid #000 5px;
+border-radius:20px;
+padding:10px;
+width: 60%;
+font-weight:bold;
+font-size:1.1em;
+text-align:center;
+font-family:Arial Black;
+max-width:550px;
+cursor:pointer;
+}
+.correcto{background-color: green;}
+.incorrecto{background-color:#e50000;}
