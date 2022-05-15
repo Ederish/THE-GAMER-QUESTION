@@ -29,8 +29,9 @@ cellWidth:125, cellHeight:125,
 }); 
 for(let block of blocks){
 block.setInteractive().on('pointerdown',()=>{
-block.destroy(), this.sound.add('coin').play()
+block.destroy(),this.sound.add('coin').play();
 
+this.scene.pause()
 setTimeout(()=>{
 this.scene.sendToBack()
 pre.setAlpha(1);
@@ -38,9 +39,9 @@ btn1.setAlpha(1);
 btn2.setAlpha(1);
 btn3.setAlpha(1);
 btn4.setAlpha(1);
-timedEvent.start()
-},3000)
-})
+this.scene.play()
+timedEvent.start();
+},3000)})
 }}}
 class winner extends Phaser.Scene { constructor() { super({key: "winner", active: true});}
  preload (){
@@ -51,6 +52,7 @@ this.load.audio('coin','assets/coin.png')
  create (){
 this.add.rectangle(400,300,800,600, 0xa10897);
 this.add.text(100,16,"You Winner",{fontFamily:"Arial Black", fontSize:100,color:"#efb810"}).setStroke('#fff',8)
+audio.pause()
 
 for (var i = 0; i < 64; i++){
 this.physics.add.image(Phaser.Math.Between(0,800),Phaser.Math.Between(0,600),'coins')
