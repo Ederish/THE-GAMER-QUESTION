@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+<link href="https://unpkg.com/nes.css@2.3.0/css/nes.min.css" rel="stylesheet" />
+<link href="https://unpkg.com/nes.css@latest/css/nes.min.css" rel="stylesheet" />
+<link href="https://unpkg.com/nes.css/css/nes-core.min.css" rel="stylesheet" />
+</head>
+<body>
+  <div class="container">
+    <div class="bg">
+      <div class="grid-container">
+        <!-- <div class="grid-item"><img src="./assets/mario.gif"></div>
+        <div class="grid-item"><img src="./assets/sonic.gif"></div>
+        <div class="grid-item"><img src="./assets/crash.gif">  </div>  
+        <div class="grid-item"><img src="./assets/megaMan.gif"></div>
+        <div class="grid-item"><img src="./assets/ryu.gif"></div>
+        <div class="grid-item"><img src="./assets/link.gif">  </div>  
+        <div class="grid-item"><img src="./assets/lara.gif"></div>
+        <div class="grid-item"><img src="./assets/slug.gif"></div>
+        <div class="grid-item"><img src="./assets/ninja.gif"></div>
+        <div class="grid-item"><img src="./assets/kratos.gif"></div>
+        <div class="grid-item"><img src="./assets/hollow.gif"></div>
+        <div class="grid-item"><img src="./assets/DarkSouls.gif"></div>  -->
+      </div>
+    </div>
+  </div> 
+  <div class="contenedor">
+<progress id="bar" class="nes-progress is-primary" value="0" max="10">Level</progress>
+    <div class="clock" id="clock"></div>
+    <div class="puntaje" id="puntaje"></div>
+    <div class="nes-balloon from-left">
+      <div class="categoria" id="categoria">
+      </div>
+      <div class="numero" id="numero"></div>
+      <div class="pregunta" id="pregunta">
+      </div>
+      <img width="50" height="50" src="#" class="imagen" id="imagen">
+    </div>
+    <div class="nes-btn" id="btn1" onclick="oprimir_btn(0)"></div>
+    <div class="nes-btn" id="btn2" onclick="oprimir_btn(1)"></div>
+    <div class="nes-btn" id="btn3" onclick="oprimir_btn(2)"></div>
+    <div class="nes-btn" id="btn4" onclick="oprimir_btn(3)"></div>
+  </div>
+      <script src="script.js"></script>
+</body>
+</html>

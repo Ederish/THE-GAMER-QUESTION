@@ -1,0 +1,114 @@
+      ::-webkit-scrollbar{display: none;}
+      * {
+        transition: all 0.3s;
+        padding: 0; margin: 0;
+        z-index:1000;
+      }
+      body {
+        text-align: center;
+        font-family: calibri;
+        font-size: 120%;
+      }
+      .contenedor{
+        width: 98vw;
+        height: 97vh;
+        display: inline-flex;
+        flex-direction: column;
+        justify-content:space-evenly;
+        align-items: center;
+      } 
+      .categoria {
+        opacity: 0.3;
+        text-align: left;
+      }
+      .pregunta {
+        padding: 10px;
+      }
+      .imagen {
+        object-fit: cover;
+        height: 0px;
+        width: 0px;
+      }
+      .nes-progress{
+      transform: scale(0.8);
+      margin-top: 0;  
+      border-color:solid 4px #000; 
+      }
+      .is-warning, .gameover-btn{ 
+       display:inline-flex;
+       justify-content: center;
+       align-items: center;
+       width:60%;
+       padding: 10%;
+       z-index:1000;
+      }
+      .numero{
+        position: absolute;
+        opacity:0.3;
+        top: 10px;
+        right: 10px;
+      }
+      .puntaje,.clock{
+        position: absolute;
+        font-size:2rem;
+        font-weight: bold;
+        left: 0;bottom:0;
+        padding:10px;
+        color:#000;
+      }
+      .clock{
+       display:inline-flex;
+       justify-content: end;
+       align-items: flex-end;
+       right:0;
+      }
+      .grid-container {
+        display: grid;
+        gap: 50px;
+        grid-template-columns: auto auto auto;
+        padding: 10px;
+
+      }
+      .grid-item {
+        padding: 20px;
+        font-size: 30px;
+        text-align: center;
+      }
+      .grid-item>img{
+      width:100px;
+      height:100px;
+      z-index:10;
+      }
+      .bg>.logo{
+        position:absolute;
+        top: -10%;
+        width:80%;
+        height:80%; 
+        z-index:1000; 
+       }
+      .bg{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      z-index:10;
+      overflow: hidden;
+      }
+      .bg:before, .bg:after {
+          content: "";
+          position: absolute;
+          width: 100%;
+          height: 100%;
+          background-image: url(./assets/fondo.jpg);
+          background-size: 100%;
+          animation: move 15s infinite linear;
+      }
+      .bg:before {
+       left: 100%;
+      }
+      @keyframes move {
+      from {transform: translateX(-0%);}
+      to {transform: translateX(-100%);}
+      }     
